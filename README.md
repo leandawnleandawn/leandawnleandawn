@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ladies, with Gentle Hands 🤲
+
+
+This is not my alter ego unfortunately, but this GitHub is repurposed on School and Personal Projects only..
+
+
+I'MMM SORRYYY~~
 
 <!--
 **leandawnleandawn/leandawnleandawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
