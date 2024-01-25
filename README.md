@@ -3,6 +3,9 @@
 
 This is not my alter ego unfortunately, but this GitHub is repurposed on School and Personal Projects only..
 
+Specialized in Robotics, Numerical Computing, and Automation
+
+Currently Studying Implementation of Numerical Computing in C++, Object Oriented Programming in C++ and Python, and Theory of Machines
 
 I'MMM SORRYYY~~
 
